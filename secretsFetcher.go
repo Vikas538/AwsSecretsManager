@@ -1,4 +1,4 @@
-package secretsFetcher
+package awssecretsmanager
 
 import "fmt"
 
