@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	greet"github.com/Vikas538/AwsSecretsManager/secresFetcher"
+	greet"github.com/Vikas538/AwsSecretsManager"
 )
 
 func main() {
